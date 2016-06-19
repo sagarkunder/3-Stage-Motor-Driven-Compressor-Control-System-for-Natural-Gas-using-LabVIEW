@@ -3,8 +3,8 @@
 The aim of the project is to simulate the basic functioning of a 3-Stage Reciprocating Compressor for Natural Gas and the various safety inter-locks involved.
 
 <b>Please Note:</b> 
--> The "FINAL_PROJECT.vi" is the main VI file, the rest are subVIs.
--> This VI won't execute with LabVIEW version below 2014.
+The "FINAL_PROJECT.vi" is the main VI file, the rest are subVIs.
+This VI won't execute with LabVIEW version below 2014.
 
 <b>Human Machine Interface:</b> <i>(Click on the image for the larger view)</i>
 ![output](https://cloud.githubusercontent.com/assets/17741974/16179894/4be2bc78-3674-11e6-86c1-c7e5b12c3501.jpg)
