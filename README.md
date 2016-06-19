@@ -7,7 +7,7 @@ The "FINAL_PROJECT.vi" is the main VI file, the rest are subVIs.
 This VI won't execute with LabVIEW version below 2014.
 
 <b>Human Machine Interface:</b> <i>(Click on the image for the larger view)</i>
-<img border="5">
+<img style="border:5px solid black">
 ![output](https://cloud.githubusercontent.com/assets/17741974/16179894/4be2bc78-3674-11e6-86c1-c7e5b12c3501.jpg)
 </img>
 <b>Historical Trend:</b> <i>(Click on the image for the larger view)</i>
