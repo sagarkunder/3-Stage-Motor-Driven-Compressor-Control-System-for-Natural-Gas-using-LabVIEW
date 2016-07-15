@@ -5,9 +5,16 @@ http://sagarkunder.github.io/3-Stage-Motor-Driven-Compressor-Control-System-for-
 
 The aim of the project is to simulate the basic functioning of a 3-Stage Reciprocating Compressor for Natural Gas and the various safety inter-locks involved.
 
+
 <b>Please Note:</b> 
 The "FINAL_PROJECT.vi" is the main VI file, the rest are subVIs.
 This VI won't execute with LabVIEW version below 2014.
+This project was developed as part of Virtual Instrumentation course at ESIGELEC, France.
+
+<b>Project by:</b>
+Yashmitha Yaduraj Salian
+Deepak Pai Karkala
+Sagar Kunder
 
 <b>Human Machine Interface:</b> <i>(Click on the image for the larger view)</i>
 
