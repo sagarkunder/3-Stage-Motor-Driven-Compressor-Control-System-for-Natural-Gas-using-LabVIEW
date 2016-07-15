@@ -12,9 +12,9 @@ This VI won't execute with LabVIEW version below 2014.
 This project was developed as part of Virtual Instrumentation course at ESIGELEC, France.
 
 <b>Project by:</b>
-Yashmitha Yaduraj Salian
-Deepak Pai Karkala
-Sagar Kunder
+Yashmitha Yaduraj Salian,
+Deepak Pai Karkala,
+and Sagar Kunder
 
 <b>Human Machine Interface:</b> <i>(Click on the image for the larger view)</i>
 
