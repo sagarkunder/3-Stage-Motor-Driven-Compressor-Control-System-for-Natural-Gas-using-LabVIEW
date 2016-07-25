@@ -1,6 +1,7 @@
 # <i>3-Stage-Motor-Driven-Compressor-Control-System-for-Natural-Gas-using-LabVIEW</i>
 Sagar Kunder (sagarkunder)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fckqe-37Fzw" frameborder="0" allowfullscreen></iframe>
+
+[![3-Stage-Motor-Driven-Compressor-Control-System-for-Natural-Gas-using-LabVIEW ](https://cloud.githubusercontent.com/assets/17741974/17119211/cc389408-52c4-11e6-90fe-787d392e5131.jpg)](https://www.youtube.com/watch?v=fckqe-37Fzw "3-Stage-Motor-Driven-Compressor-Control-System-for-Natural-Gas-using-LabVIEW-Click to Watch!")
 http://sagarkunder.github.io/3-Stage-Motor-Driven-Compressor-Control-System-for-Natural-Gas-using-LabVIEW/
 
 The aim of the project is to simulate the basic functioning of a 3-Stage Reciprocating Compressor for Natural Gas and the various safety inter-locks involved.
